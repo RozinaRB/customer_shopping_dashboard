@@ -1,0 +1,12 @@
+name: mini_dash
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - streamlit
+      - polars
+      - plotly
+      - pyarrow
