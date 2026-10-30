@@ -2,6 +2,8 @@
 
 > A Streamlit-based interactive dashboard that uploads, validates, and analyzes Customer Shopping Preferences data.
 
+### Click the link so you can see full dashboard [https://customershoppingdashboard.streamlit.app/]
+
 ---
 
 ## 📋 Table of Contents
